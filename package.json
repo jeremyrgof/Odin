@@ -1,0 +1,27 @@
+{
+  "name": "odin",
+  "version": "1.0.0",
+  "description": "app number odin",
+  "main": "odin.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "react-dom": "^16.12.0",
+    "react": "^16.12.0",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testpost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrgof/Odin.git"
+  },
+  "author": "gera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyrgof/Odin/issues"
+  },
+  "homepage": "https://github.com/jeremyrgof/Odin#readme"
+}
